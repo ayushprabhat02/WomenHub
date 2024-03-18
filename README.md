@@ -2,13 +2,16 @@
 
 ## Setup Instructions
 
-1. Clone the repository:
+1. Set up React Native CLI environment:
+Follow the instructions at (https://reactnative.dev/docs/environment-setup)
+
+2. Clone the repository:
    git clone https://github.com/yourusername/your-project.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    cd your-project
 
-3. Install dependencies:
+4. Install dependencies:
    npm install
 
 ## Running the App
